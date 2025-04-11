@@ -8,7 +8,7 @@ authors = [
 ]
 description = "This is a library for effective moderation of content."
 readme = "README.md"
-license = "MIT"
+license = {text = "MIT License"}
 keywords = [
   "moderation",
   "content filtering",
@@ -18,7 +18,6 @@ keywords = [
 ]
 classifiers = [
   "Programming Language :: Python :: 3",
-  "License :: OSI Approved :: MIT License",
   "Operating System :: OS Independent",
 ]
 
